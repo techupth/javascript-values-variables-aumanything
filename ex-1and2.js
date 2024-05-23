@@ -20,4 +20,11 @@ const NET_PRICE = 15000;
 const NUM_OPENED_RESTAURANT = 1500; 
 
 //Exercise #2: Variable Reassignment
+// ให้นำตัว Variable ที่สร้างจาก Exercise ที่ 1 มา Reassign ตัว Value ใหม่ เข้าไปตามข้อกำหนดดังต่อไปนี้
+// ให้ Reassign ตัว Value ของ Variable ที่อยู่ (ในข้อที่ 1.3) เป็น "(970) 878-53292400 County Rd #4Meeker, Colorado(CO), 81641”
+// ให้ Reassign ตัว Value ของ Variable ราคาอาหารสุทธิ (ในข้อที่ 1.5) เป็น 5000
+// ให้ Reassign ตัว Value ของ Variable จำนวนร้านอาหารที่เปิดอยู่ตอนนี้ทั้งหมด (ในข้อที่ 1.6) เป็น 2500
 //Start coding here
+postAddress = "(970) 878-53292400 County Rd #4Meeker, Colorado(CO), 81641";
+// NET_PRICE = 5000;
+// NUM_OPENED_RESTAURANT = 2500;
